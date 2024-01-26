@@ -1,0 +1,265 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Programowanie ASP_NET CORE MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Programowanie ASP_NET CORE MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\A\\Magisterka\\.NET\\Programowanie ASP_NET CORE MVC\\Programowanie ASP_NET CORE MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Programowanie ASP_NET CORE MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Programowanie ASP_NET CORE MVC.props",
+      "PackagePath": "build\\Programowanie ASP_NET CORE MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Programowanie ASP_NET CORE MVC.props",
+      "PackagePath": "buildMultiTargeting\\Programowanie ASP_NET CORE MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Programowanie ASP_NET CORE MVC.props",
+      "PackagePath": "buildTransitive\\Programowanie ASP_NET CORE MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
